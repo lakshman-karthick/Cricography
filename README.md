@@ -37,7 +37,7 @@ Some of the operations of Hash Table like modify and search are implemented in t
 
 #### HASH TABLE
     1) Division method
-    2) collision resolution by chaining(open hashing)
+    2) collision resolution by Linear Probing
 
 #### FILES
     1)Binary files
