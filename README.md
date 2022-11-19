@@ -22,12 +22,6 @@ Some of the operations of Hash Table like modify and search are implemented in t
 - Search Players in Database
 - Finding best performers in different disciplines using Heap
 
-
-## Authors
-
-- [@Lakshman Karthick T](https://github.com/lakshman-karthick)
-- [@Kaviraj VG](http://github.com/Kaviraj-vg)
-- [@Aswath AR]()
 ## Concepts Used
 
 #### HEAP  
