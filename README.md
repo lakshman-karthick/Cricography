@@ -1,5 +1,5 @@
 
-# Players Statistics Management
+# CRICOGRAPHY
 
 Cricket Player's Statistics is stored in Database and find the best performers in different disciplines using Statistics in the Database.
 
